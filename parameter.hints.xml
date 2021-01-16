@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="android.widget.LinearLayout(context)" />
+      </blacklist>
+    </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
