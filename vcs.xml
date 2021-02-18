@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Senix22/paritech_Kotlin1_homework1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/maxxxwk/GithubClientProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\senix\AndroidStudioProjects" />
