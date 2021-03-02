@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/faishalrachman/JSONPoster.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Senix22/Arch2SenykOleh.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\senix\AndroidStudioProjects" />
